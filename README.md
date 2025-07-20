@@ -27,14 +27,6 @@ Passionate about crafting **clean, modern, and functional digital experiences**.
 * Laravel API wizardry 
 * Next.js & AI integration experiments 
 
-## 📊 GitHub Stats
-
-[![Eleanor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduBmoon21\&show_icons=true\&theme=radical)](https://github.com/duduBmoon21)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduBmoon21\&layout=compact\&theme=radical)](https://github.com/duduBmoon21)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=duduBmoon21\&theme=github)
-
 ## 🌍 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat\&logo=react)](https://hey-its-elln-verse.vercel.app)
