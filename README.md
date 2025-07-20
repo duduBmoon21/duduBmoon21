@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey there, I'm Eleanor!
 
-<!--
-**duduBmoon21/duduBmoon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Code, Coffee & Curiosity — That's My Thing.
 
-Here are some ideas to get you started:
+```javascript
+const Eleanor = {
+   code: ["HTML", "CSS", "JavaScript", "Laravel", "React", "Next.js", "Express"],
+   databases: ["MySQL", "PostgreSQL", "MongoDB"],
+   tools: ["Git", "GitHub"],
+   AI_integration: true,
+   vibes: "Positive & Playful 🌸"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+Passionate about crafting **clean, modern, and functional digital experiences**. I love blending the best of **frontend & backend** magic, sprinkled with a bit of **AI integration** here and there.
+
+## 🛠️ What I Build
+
+✨ **Web Apps** that solve real problems
+✨ **AI-Enhanced Tools** that make life easier
+✨ **Creative Projects** that feel alive
+
+## 🔥 Current Focus
+
+* Laravel API wizardry 🪄
+* Next.js & AI integration experiments 🤖
+
+## 📊 GitHub Stats
+
+
+
+## 🌍 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat\&logo=react)](https://hey-its-elln-verse.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/eleanor-tefera-nigatu/)
+[![Twitter / X](https://img.shields.io/badge/-@YourHandle-1DA1F2?style=flat\&logo=twitter)](https://x.com/eleanorTefera21)
+
+---
+
+> *"Building cool stuff, one commit at a time."* 🦄
+
+**Let's turn ideas into reality.** 🚀✨
