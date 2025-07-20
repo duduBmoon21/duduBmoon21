@@ -29,7 +29,6 @@ Passionate about crafting **clean, modern, and functional digital experiences**.
 
 ## 🌍 Let's Connect
 
-[![Portfolio]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/eleanor-tefera-nigatu/)
 [![Twitter / X](https://img.shields.io/badge/-X-1DA1F2?style=flat\&logo=twitter)](https://x.com/eleanorTefera21)
 
