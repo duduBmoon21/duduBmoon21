@@ -6,7 +6,7 @@
 const Eleanor = {
    code: ["HTML", "CSS", "JavaScript", "Laravel", "React", "Next.js", "Express"],
    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-   tools: ["Git", "GitHub"],
+   tools: ["Git", "GitHub", "Postman"],
    AI_integration: true,
    vibes: "Positive & Playful 🌸"
 }
