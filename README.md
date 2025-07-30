@@ -4,11 +4,11 @@
 
 ```javascript
 const Eleanor = {
-   code: ["HTML", "CSS", "JavaScript", "Laravel", "React", "Next.js", "Express"],
+   code: ["HTML", "CSS", "JavaScript", "Laravel", "React", "Next.js", "Express","Python"],
    databases: ["MySQL", "PostgreSQL", "MongoDB"],
    tools: ["Git", "GitHub", "Postman"],
    AI_integration: true,
-   vibes: "Positive & Playful 🌸"
+   vibes: "Positive & Playful"
 }
 ```
 
