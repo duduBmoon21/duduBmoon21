@@ -16,7 +16,7 @@ const Eleanor = {
 
 Passionate about crafting **clean, modern, and functional digital experiences**. I love blending the best of **frontend & backend** magic, sprinkled with a bit of **AI integration** here and there.
 
-## 🛠️ What I Build
+##  What I Build
 
 ✨ **Web Apps** that solve real problems
 ✨ **AI-Enhanced Tools** that make life easier
@@ -27,7 +27,7 @@ Passionate about crafting **clean, modern, and functional digital experiences**.
 * Laravel API wizardry 
 * Next.js & AI integration experiments 
 
-## 🌍 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/eleanor-tefera-nigatu/)
 [![Twitter / X](https://img.shields.io/badge/-X-1DA1F2?style=flat\&logo=twitter)](https://x.com/eleanorTefera21)
