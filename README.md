@@ -18,11 +18,11 @@ Passionate about crafting **clean, modern, and functional digital experiences**.
 
 ##  What I Build
 
-✨ **Web Apps** that solve real problems
-✨ **AI-Enhanced Tools** that make life easier
-✨ **Creative Projects** that feel alive
+ **Web Apps** that solve real problems
+ **AI-Enhanced Tools** that make life easier
+ **Creative Projects** that feel alive
 
-## 🔥 Current Focus
+##  Current Focus
 
 * Laravel API wizardry 
 * Next.js & AI integration experiments 
